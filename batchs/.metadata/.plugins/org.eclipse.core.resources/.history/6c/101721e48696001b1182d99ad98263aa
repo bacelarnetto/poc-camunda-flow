@@ -1,0 +1,16 @@
+camunda:
+  bpm:
+    admin-user:
+		id: admin
+	    password: admin
+	    firstName: Admin
+
+#  admin-user:
+    id: admin
+    password: admin
+    firstName: Admin
+#  bpm:
+#    filter:
+#      create: 
+ 
+

@@ -1,0 +1,13 @@
+package com.demo.customtask.sytemlogging;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSytemLoggingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoSytemLoggingApplication.class, args);
+	}
+
+}
